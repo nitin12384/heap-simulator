@@ -10,6 +10,11 @@ Java JDK 15 + installed
 2. In the src directory of the repository, run `javac StartApp.java` to compile the .class files
 3. run ` java StartApp ` to run the application.
 
+# Execution 
+- `allocate <var_name> <size>` to allocate memoty
+- `free <var_name>` to free the memory allocated to a variable.
+- Use `Reset with ncells` to reset the heap with different number of blocks.
+
 # screenshots 
 
 <img src="./images/SS1.png" alt="Screenshot 1" />
